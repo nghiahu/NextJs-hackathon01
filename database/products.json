@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cam",
+    "price": 12000,
+    "quantity": 24,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jackfruit_hanging.JPG/420px-Jackfruit_hanging.JPG"
+  },
+  {
+    "id": 2,
+    "name": "Cam",
+    "price": 16000,
+    "quantity": 21,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jackfruit_hanging.JPG/420px-Jackfruit_hanging.JPG"
+  },
+  {
+    "id": 3,
+    "name": "Bơ",
+    "price": 20000,
+    "quantity": 15,
+    "image": "https://images.baodantoc.vn/uploads/2023/Th%C3%A1ng%202/Ng%C3%A0y%208/Thanh/an-bo-da-tot-nhung-an-dung-thoi-diem-se-tot-hon-van-lan-202107131644096368.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chuối",
+    "price": 10000,
+    "quantity": 30,
+    "image": "https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-asm/posts/an-chuoi-4.webp"
+  },
+  {
+    "id": 5,
+    "name": "Nho",
+    "image": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/an_nho_co_tot_khong_thanh_phan_dinh_duong_trong_qua_nho_la_gi_1_9159e2dc25.jpg",
+    "price": 15000,
+    "quantity": 25
+  },
+  {
+    "id": 6,
+    "name": "Xoài",
+    "price": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWcwSRW2ZKH2exRLJ9rxOI10OzXg-4Ud-6g&s",
+    "quantity": 25
+  }
+]
